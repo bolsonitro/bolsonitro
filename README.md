@@ -1,4 +1,4 @@
-### Hi there 👋
+### Bolsonitro aqui! 👋
 
 <!--
 **bolsonitro/bolsonitro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h2 align="center">Languages and Tools I used recently:</h3>
+<p align="center">
+  <a href="https://profile.codersrank.io/user/peti2001" target="_blank">
+    <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=bolsonitro&skills=JavaScript,TypeScript,Vue&width=820" alt="CodersRank skills chart"/>
+  </a>
+</p>
